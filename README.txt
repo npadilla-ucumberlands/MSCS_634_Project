@@ -3,6 +3,10 @@
 ## Overview
 This project analyzes student performance using machine learning techniques to identify patterns and predict academic outcomes. The analysis includes regression, classification, clustering, and association rule mining.
 
+## Video Presentation
+You can view the final presentation here:
+https://go.screenpal.com/watch/cOfObonOkgu
+
 ## Dataset
 The dataset used is the UCI Student Performance dataset, which contains demographic, behavioral, and academic attributes such as study time, absences, and previous grades.
 
